@@ -15,5 +15,16 @@
 ## Instalasi
 1.  Clone repositori ini ke mesin lokal Anda.
    ```bash
-   git clone https://github.com/HansCode20/HansCode20-cmlabs-frontend-internship-tes.git
-   cd MealApp
+   git clone https://github.com/HansCode20/cmlabs-frontend-internship-test
+   cd cmlabs-frontend-internship-test
+
+2. Lakukan Install ulang Depencies
+   yarn install or npm install
+
+3. Silahkan Buka 
+   Klik open live server pada bagian File ./Pages/Category.html
+
+4. jalankan terminal untuk melihat style Tailwind
+   npx tailwindcss -i ./src/input.css -o ./Pages/output.css --watch
+
+5. Selesai
